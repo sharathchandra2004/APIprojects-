@@ -1,6 +1,6 @@
 
 
-# API Workshop  
+# API Projects 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
 
