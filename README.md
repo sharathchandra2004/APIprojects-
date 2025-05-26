@@ -6,7 +6,7 @@
 
 ## 🚀 Overview  
 
-**API Workshop** is a Python-based project designed to teach and demonstrate the fundamentals of working with APIs. It includes hands-on examples and code snippets to help users understand how to integrate, test, and utilize APIs in various applications.  
+**API Projects repository ** is a Python-based project designed to teach and demonstrate the fundamentals of working with APIs. It includes hands-on examples and code snippets to help users understand how to integrate, test, and utilize APIs in various applications.  
 
 ---
 
